@@ -1,0 +1,38 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<External>null</External>
+	<External>nil</External>
+	<Item class="UserGameSettings" referent="RBXDA59CEDE8DC4415397F03574C8EC4AA9">
+		<Properties>
+			<bool name="AllTutorialsDisabled">false</bool>
+			<token name="CameraMode">0</token>
+			<string name="CompletedTutorials"></string>
+			<bool name="ComputerCameraMovementChanged">false</bool>
+			<token name="ComputerCameraMovementMode">0</token>
+			<bool name="ComputerMovementChanged">false</bool>
+			<token name="ComputerMovementMode">0</token>
+			<token name="ControlMode">1</token>
+			<bool name="Fullscreen">false</bool>
+			<token name="ImageUploadPromptBehavior">1</token>
+			<float name="MasterVolume">0.200000003</float>
+			<float name="MouseSensitivity">1.35000002</float>
+			<string name="Name">GameSettings</string>
+			<token name="SavedQualityLevel">5</token>
+			<bool name="StartMaximized">false</bool>
+			<Vector2 name="StartScreenPosition">
+				<X>98</X>
+				<Y>0</Y>
+			</Vector2>
+			<Vector2 name="StartScreenSize">
+				<X>1741</X>
+				<Y>983</Y>
+			</Vector2>
+			<bool name="TouchCameraMovementChanged">false</bool>
+			<token name="TouchCameraMovementMode">0</token>
+			<bool name="TouchMovementChanged">false</bool>
+			<token name="TouchMovementMode">0</token>
+			<bool name="UsedHideHudShortcut">false</bool>
+			<token name="VideoUploadPromptBehavior">0</token>
+			<string name="gaID">38A616C6-94FC-4499-8E1C-058F8E1935AA</string>
+		</Properties>
+	</Item>
+</roblox>
